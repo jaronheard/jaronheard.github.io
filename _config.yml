@@ -3,17 +3,17 @@ title: Jaron Heard
 email: jaronheard@gmail.com
 url: https://jaronheard.github.io
 description: "Jaron Heard's personal portfolio website and blog"
-skills: "iOS and web developer"
+skills: "iOS AND WEB DEVELOPER"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 007C8A #80B3FF
+  primary-rgb: "0,124,138" #"128,179,255"
+  secondary: 56646E #FD6E8A
+  secondary-dark: 183F4B #A2122F
 
 # Footer settings
 footer:
@@ -30,6 +30,8 @@ social:
     url: http://facebook.com/jaronheard
   - title: github
     url: http://github.com/jaronheard
+  - title: linkedin
+    url: http://linkedin.com/jaronheard
 
 # Postal address (add as many lines as necessary)
 address:
