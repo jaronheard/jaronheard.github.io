@@ -1,9 +1,9 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: Jaron Heard
+email: jaronheard@gmail.com
+url: https://jaronheard.github.io
+description: "Jaron Heard's personal portfolio website and blog"
+skills: "iOS and web developer"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -17,28 +17,24 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Jaron Heard
+  location: Portland
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/jaronheard
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://facebook.com/jaronheard
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/jaronheard
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 3227 SE Stark St.
+  - line: Portland, OR, 97201
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
