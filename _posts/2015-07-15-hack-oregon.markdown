@@ -7,6 +7,6 @@ alt: image-alt
 project-date: In progress
 client: <a href="http://www.hackoregon.org/">Hack Oregon</a>
 category: Web Development
-description: A web applicatoin that maps and visualizes economic data for Oregon, especially related to the minimum wage. Built with the Job Economy team, using Backbone.js, Leaflet.js, Mapbox, Flask, Postgres.
+description: A web application that maps and visualizes economic data for Oregon, especially related to the minimum wage. Built with the Job Economy team, using Backbone.js, Leaflet.js, Mapbox, Flask, Postgres.
 
 ---
