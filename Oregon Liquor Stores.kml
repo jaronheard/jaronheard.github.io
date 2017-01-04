@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Oregon Liquor Stores</name>
+		<NetworkLink>
+			<name>Oregon Liquor Stores</name>
+			<Link>
+				<href>http://www.google.com/maps/d/kml?forcekml=1&amp;mid=1wnvFZ161qPXyC1MbXZof1SXwArs&amp;lid=Lmm2mXcBPqQ</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
