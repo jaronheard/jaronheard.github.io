@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2017-06-16
+img: civic.png
+alt: image-alt
+project-date:
+client: <a href="http://www.hackoregon.org/">Hack Oregon</a>
+category: Web Development
+description: A <a href=http://www.hackoregon.org/civic-projects/>web application</a> Built map components to be used with the HackOregon Civic open data visualization platform, using React, Leaflet.js, Mapbox, D3
+
+---
