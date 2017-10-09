@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2017-05-25
+img: chalk.png
+alt: image-alt
+project-date:
+client: Personal
+category: Art
+description: Temporary chalk installation showing Willamette River temperature on Hawthorne Bridge
+
+---
