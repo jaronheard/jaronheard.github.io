@@ -285,6 +285,12 @@ section.contact {
     background: #fff;
 }
 
+.btn-success {
+    border: solid 2px #fff;
+    color: #{{ site.color.secondary }};
+    background: #fff;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
