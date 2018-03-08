@@ -184,6 +184,11 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.contact {
+    color: #fff;
+    background: #{{ site.color.primary }};
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
@@ -265,7 +270,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
     background: #fff;
 }
 
