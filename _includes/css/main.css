@@ -285,16 +285,18 @@ section.contact {
     background: #fff;
 }
 
-.btn-success {
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active {
     border: solid 2px #fff;
-    color: #{{ site.color.secondary }};
-    background: #fff;
+    color: #fff;
+    background: #{{ site.color.secondary-dark }};
 }
 
 .btn-success {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
-    background: #fff;
+    color: #fff;
+    background: #{{ site.color.secondary }};
 }
 
 .floating-label-form-group {
@@ -316,6 +318,7 @@ section.contact {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+    color: #fff;
 }
 
 .floating-label-form-group label {
@@ -483,8 +486,7 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-//remove toggle border
 .navbar-toggle {
-  border: none;
-  outline: none;
+    border: 0px;
+    border-radius: 0px;
 }
