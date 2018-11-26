@@ -21,15 +21,13 @@ color:
 footer:
   copyright: Jaron Heard
   location: Portland
-  social: Around the Web
+  social: Cyberspace
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/jaronheard
-  - title: facebook
-    url: http://facebook.com/jaronheard
   - title: github
     url: http://github.com/jaronheard
   - title: linkedin
@@ -41,7 +39,7 @@ address:
   - line: Portland, OR 97232
 
 # Credits content
-credits: 'Based on a modified version of the Freelancer Bootstrap theme.'
+credits: 'Modified Freelancer Bootstrap theme, using CIVIC colors.'
 
 # Build settings
 markdown: kramdown
