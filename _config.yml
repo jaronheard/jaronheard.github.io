@@ -39,7 +39,7 @@ address:
   - line: Portland, OR 97232
 
 # Credits content
-credits: 'Modified Freelancer Bootstrap theme, using CIVIC colors.'
+credits: 'Modified Freelancer Bootstrap theme, using CIVIC colors'
 
 # Build settings
 markdown: kramdown
